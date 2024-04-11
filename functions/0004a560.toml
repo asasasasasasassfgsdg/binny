@@ -5,5 +5,11 @@ last_change = 2024-04-11T13:11:44.457828Z
 
 [header]
 last_change = 2024-04-11T12:20:18.429880Z
-name = "andrew_sucks"
+name = "andrew"
 addr = 0x4a560
+type = "char *"
+
+[header.args.1]
+offset = 0x1
+name = "c"
+size = 0x8
