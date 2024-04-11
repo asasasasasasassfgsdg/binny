@@ -3,3 +3,10 @@ addr = 0x4a4f6
 func_addr = 0x4a4f0
 comment = "poopie comment\n"
 decompiled = false
+
+[0x4a57e]
+last_change = 2024-04-11T12:19:11.845637Z
+addr = 0x4a57e
+func_addr = 0x4a560
+comment = "-1\n"
+decompiled = false
