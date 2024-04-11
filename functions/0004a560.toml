@@ -1,10 +1,15 @@
 [metadata]
 addr = 0x4a560
 size = 0xcb
-last_change = 2024-04-11T13:23:04.798665Z
+last_change = 2024-04-11T13:23:48.212476Z
 
 [header]
-last_change = 2024-04-11T13:23:04.798665Z
+last_change = 2024-04-11T13:23:48.212476Z
 name = "andrew"
 addr = 0x4a560
 type = "char *"
+
+[header.args.1]
+offset = 0x1
+name = "c"
+size = 0x8
