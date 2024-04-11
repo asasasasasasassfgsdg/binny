@@ -9,7 +9,60 @@ name = "andrew"
 addr = 0x4a560
 type = "char *"
 
+[stack_vars.-0x30]
+offset = -48
+name = "v35"
+type = "long long (__fastcall *)(_DWORD *, _BYTE *, long long)"
+size = 0x8
+addr = 0x4a560
+
+[stack_vars.-0x28]
+offset = -40
+name = "v36"
+type = "long long"
+size = 0x8
+addr = 0x4a560
+
+[stack_vars.-0x20]
+offset = -32
+name = "v37"
+type = "int"
+size = 0x4
+addr = 0x4a560
+
+[stack_vars.-0x18]
+offset = -24
+name = "v38"
+type = "_DWORD *"
+size = 0x8
+addr = 0x4a560
+
 [header.args.1]
 offset = 0x1
 name = "c"
+type = "_BYTE *"
 size = 0x8
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "_DWORD *"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "long long"
+size = 0x8
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "long long"
+size = 0x8
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "char"
+size = 0x1
