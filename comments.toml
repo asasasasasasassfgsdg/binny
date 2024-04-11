@@ -1,3 +1,9 @@
+[0x4a4f0]
+addr = 0x4a4f0
+func_addr = 0x4a4f0
+comment = "cool comment in the decompiler\n"
+decompiled = true
+
 [0x4a4f6]
 addr = 0x4a4f6
 func_addr = 0x4a4f0
