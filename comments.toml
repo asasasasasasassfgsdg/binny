@@ -10,3 +10,9 @@ addr = 0x4a57e
 func_addr = 0x4a560
 comment = "-1\n"
 decompiled = false
+
+[0x4a72d]
+addr = 0x4a72d
+func_addr = 0x4a705
+comment = "LINUX - sys_mmap\n"
+decompiled = false
