@@ -5,6 +5,12 @@ func_addr = 0x4a4f0
 comment = "poopie comment\n"
 decompiled = false
 
+[0x4a505]
+addr = 0x4a505
+func_addr = 0x4a4f0
+comment = "some xor...\n"
+decompiled = false
+
 [0x4a57e]
 addr = 0x4a57e
 func_addr = 0x4a560
