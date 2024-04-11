@@ -1,16 +1,16 @@
 [metadata]
 addr = 0x4a4f0
 size = 0x32
-last_change = 2024-04-11T12:57:14.086637Z
+last_change = 2024-04-11T13:22:17.836214Z
 
 [header]
-last_change = 2024-04-11T12:42:30.177247Z
+last_change = 2024-04-11T13:22:17.836214Z
 name = "should_be_main"
 addr = 0x4a4f0
 type = "long long"
 
 [header.args.0]
 offset = 0x0
-name = "a1"
+name = "maybe_this"
 type = "long long"
 size = 0x8
