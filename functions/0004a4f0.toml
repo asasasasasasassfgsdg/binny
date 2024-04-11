@@ -11,6 +11,6 @@ type = "long long"
 
 [header.args.0]
 offset = 0x0
-name = "maybe_this"
+name = "a1"
 type = "long long"
 size = 0x8
