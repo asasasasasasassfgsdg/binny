@@ -1,3 +1,10 @@
+[0x4a4f0]
+last_change = 2024-04-11T13:22:57.027555Z
+addr = 0x4a4f0
+func_addr = 0x4a4f0
+comment = "cool comment in the decompiler\n"
+decompiled = true
+
 [0x4a4f6]
 last_change = 2024-04-11T09:50:50.763789Z
 addr = 0x4a4f6
